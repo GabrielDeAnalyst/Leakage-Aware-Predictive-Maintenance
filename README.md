@@ -4,7 +4,7 @@ Code and results for early failure detection on multi-machine industrial sensor 
 
 This repository accompanies the paper:
 
-> Falade, Ogundapo, Olaogun, Ayoola & Omoniyi (2026). *Leakage-Aware Temporal Feature Engineering for Early Industrial Failure Detection: Chronological and Unseen-Machine Validation on Multi-Machine Sensor Data.* International Journal of Scientific Research and Management, 14(10), 3169-3181. `[add DOI or link]`
+> Falade, Ogundapo, Olaogun, Ayoola & Omoniyi (2026). *Leakage-Aware Temporal Feature Engineering for Early Industrial Failure Detection: Chronological and Unseen-Machine Validation on Multi-Machine Sensor Data.* International Journal of Scientific Research and Management, 14(10), 3169-3181. https://doi.org/10.18535/ijsrm/v14i10.ec05
 
 ## Overview
 
