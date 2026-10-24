@@ -25,7 +25,7 @@ File used: `predictive_maintenance_v3.csv`
 - Target: `failure_within_24h` (about 14.8% positive), covering 38 independent failure episodes
 - Columns: `timestamp`, `machine_id`, `machine_type`, `vibration_rms`, `temperature_motor`, `current_phase_avg`, `pressure_level`, `rpm`, `operating_mode`, `hours_since_maintenance`, `ambient_temp`, `rul_hours`, `failure_within_24h`, `failure_type`, `estimated_repair_cost`
 
-**Data availability:** `[state the source of the dataset and whether it is included in this repository]`
+**Data availability:** The data will be provided on reasonable request. Please contact the authors through the email address given in the paper.
 
 ## Method
 
